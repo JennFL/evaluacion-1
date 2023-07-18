@@ -1,0 +1,27 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    margin-left: 80px;
+}
+.contador {
+    font-size: 0;
+}
+.contenedor{
+    margin-left: 100px;
+}
+
+.aviso{
+    font-size: 25px;
+}
+.avisos2{
+    font-size: 20px;
+}
+
+.botones button{
+    width: 80px;
+    height: 30px;
+    font-size: 18px;
+    cursor: pointer;
+}
